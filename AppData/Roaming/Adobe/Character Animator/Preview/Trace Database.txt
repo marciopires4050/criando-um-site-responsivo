@@ -1,0 +1,14 @@
+Animal.Player	1	5
+Animal.Startup	1	5
+AuLog.Plug-in	1	5
+AuLog.Startup	1	5
+BeakerAnalytics	1	5
+CameraTracker	1	5
+PlayerDispatcher	1	5
+StagePanel	1	5
+TimelinePanel	1	5
+V8	1	5
+drawbotagm	1	5
+dvaaudiodevice	1	5
+dvalua	1	5
+puf.Utils	1	5

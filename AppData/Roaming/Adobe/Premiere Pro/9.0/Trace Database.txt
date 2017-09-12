@@ -1,0 +1,5 @@
+AudioDevice	1	5
+DVAAudioDeviceHost	1	5
+DynamicLink	1	5
+FE.WinInit.LocPlugins	1	5
+dvaaudiodevice	1	5

@@ -1,0 +1,15 @@
+DvaMarshalRPCLogging	false	false
+IR.disableAVX	false	false
+IR.disableAVX2	false	false
+MC.AudioRenderer.ComplexityBeforeRender	200	200
+MC.BE.AddDocIDOnImport	false	
+ML.EnableDiskCache	false	false
+ML.LoadTestingPluginsAtStartup	false	false
+ML.MaxPlaybackSpeed	32	32
+ML.UseDVAAudioDeviceEngine	false	false
+QT.DisableQuickTime32	false	false
+QT.EnableDirectProResDecode	1	1
+QT.ForceReferenceMoviesToImporterQuickTime	false	false
+QT32ServerManager.StartupTimeout	30000	30000
+REDRocketCompletelyDisabled	false	false
+REDRocketMaximumNumberOfCardsToUse	0	0

@@ -1,0 +1,600 @@
+# Text File Version 1.1
+# After Effects Preferences
+
+["3D View Preference Section"]
+	"Labels Visible" = "1"
+
+["AE_OpenGL"]
+	"Auto Downsample Textures Larger Than (pixels)" = "1440"
+	"Default Minimum VRAM Usage(in MB)" = "200"
+	"Default VRAM Usage Multiplier in terms of Total Video Memory(0.0 to 1.0)" = "0.400000"
+	"Enabled2" = "1"
+	"Freeze Frame2" = "0"
+	"Max Supported Comp Size (% of Max Card Texture Dimension)" = "0.500000"
+	"Minimum VRAM Required For Fast Draft Support(in MB)" = "256"
+	"OpenGL initialized successfully" = "1"
+	"Texture Memory4" = "+"03000000000000
+	"Texture Policy" = "70"
+
+["AE_Picasso"]
+	"Enabled" = 01
+	"Minimum VRAM Required For Raytracer GPU Support(in MB)" = "512"
+	"Remaining VRAM Required For Raytracer GPU Support(in MB)" = "256"
+
+["Additional Disk Cache Controls"]
+	"Dont Include Speeds Above This In Average (bytes/sec) 2" = "2147483648.000000"
+	"Minimum Volume Free Space (Gigabytes)" = "10"
+	"Proclivity Multiplier 2" = "1.000000"
+
+["Adobe PIP & CR Data Logging"]
+	"Log BEE Commands Into AdobePIP" = 01
+
+["Application Warning Preference Section"]
+	"CUDA driver out of date for Ray-tracer GPU" = 00
+	"Disk cache drive full warning" = 00
+	"Read Old Text Layer" = 00
+
+["Auto Mount Server Section"]
+	"Auto Mount Servers when looking for footage 1" = 00
+
+["Auto Stopwatch Section"]
+	"Auto Stopwatch" = 00
+
+["CPU Processor Optimization Section (Windows only)"]
+	"Allow MMX (If Available)" = 01
+	"Allow Prescott New Instructions (If Available)" = 01
+	"Allow SSE (If Available)" = 01
+	"Allow SSE2 (If Available)" = 01
+	"Allow SSSE3 (If Available)" = 01
+
+["Cache Preference Section"]
+	"Display Markings in Layer Bars" = 00
+	"Display Markings in Time Rulers" = 01
+
+["Cloud Sync"]
+	"Auto Clear" = 00
+	"Composition" = 01
+	"Interpretation Rules" = 01
+	"Output Module Settings Templates" = 00
+	"Render Settings Templates" = 01
+	"Settings" = 01
+	"Shortcuts" = 01
+
+["Composition Navigator"]
+	"Flow Direction" = "1"
+	"Visible" = "1"
+
+["Debug Prefs"]
+	"FlashRedrawAreaDelayInMilliseconds" = "0"
+	"Stress test project loading by canceling after each interrupt" = 00
+
+["Disk Cache Controls"]
+	"Enabled 2" = "1"
+	"Folder 7" = "C:\Users\PC\AppData\Local\Temp"
+	"Max Size 3" = "11"
+
+["Effect Control Window Pref Section"]
+	"Show Favorites" = 00
+
+["EffectsCompatability -- ECW Uses Global Coords v5"]
+	"0-Default For New Entries" = "1"
+	"ADBE Easy Levels2" = "0"
+
+["Extendscript"]
+	"EnableExpressionsDebuggingAtYourOwnRisk" = "0"
+	"UsePIDInBridetalkID" = "0"
+
+["Flowchart Settings"]
+	"Expand Flowchart Comps by Default" = "0"
+
+["General Section"]
+	"Allow Idle Application Rendering" = 01
+	"Enable Simultaneous Previews" = 00
+	"Share Comp View Options" = 00
+	"Show Welcome Screen" = 01
+	"Transparency Grid Size" = "1"
+	"Use layer bar pattern when selected" = 01
+
+["Graph Editor"]
+	"Auto Scale Mode" = "1"
+	"Edit Derivative3" = "0"
+	"Editor Flags" = "3"
+	"Experimental Spatial Value Graph Handle Mode" = "0"
+	"Show State Flags" = "131"
+
+["Ground Plane"]
+	"Colorize Major Grid" = 01
+	"Enabled" = 00
+	"Major Grid Line Width " = "3.000000"
+	"Major Grid Size" = "10000.000000"
+	"Minor Grid Line Width " = "1.000000"
+	"Minor Grid Size" = "1000.000000"
+	"Minor Grid Subdivisions" = "10.000000"
+	"Shift Plane to Composition Center" = 00
+
+["Item Window Settings"]
+	"Comp View Auto Resolution 0" = "1.000000"
+	"Comp View Auto Resolution 1" = "1.000000"
+	"Comp View Auto Resolution 2" = "1.000000"
+	"Comp View Auto Resolution 3" = "1.000000"
+	"Default Comp Wing Menu v3" = "?"05"!"00
+	"Default Footage Wing Menu v2" = "?%!"00
+	"Default Layer Wing Menu v4" = 1000" "00
+	"Item View Zoom Fit v2 0" = "2"
+	"Item View Zoom Fit v2 1" = "2"
+	"Item View Zoom Fit v2 2" = "2"
+	"Item View Zoom Fit v2 3" = "2"
+	"One Comp View Zoom v2 0" = "1.000000"
+	"One Comp View Zoom v2 1" = "1.000000"
+	"One Comp View Zoom v2 2" = "1.000000"
+	"One Comp View Zoom v2 3" = "1.000000"
+
+["Levels Effect"]
+	"Histogram Color Overlay Mode" = "0"
+
+["MP - CS5 - 4"]
+	"MP - Foreground Process Background Multiplier2" = "1.200000"
+	"MP - Foreground Process Fragmentation Limit CS5" = "0.900000"
+	"MP - Foreground Process Min Allocation2" = "1.000000"
+	"MP - Fragmentation Limit Per Background Process2" = "0.950000"
+
+["Main Pref Section v2"]
+	"AutoLogging" = "0"
+	"Disable ScriptUI" = "0"
+	"Eye Dropper Sample Size No Modifier" = "1"
+	"Eye Dropper Sample Size With Modifier" = "5"
+	"FirstLaunch" = "0"
+	"Fix bug 25030" = "1"
+	"Hot Text Color (0xAaRrGgBb)" = "0xffbf8c00"
+	"Hot Text Color Override? (1 or 0)" = 00
+	"Pref_ANIMGRID_CELLS_HORIZ" = "8.000000"
+	"Pref_ANIMGRID_CELLS_VERT v2" = "6.000000"
+	"Pref_AUDIO_MIN_POPUP_INDEX" = "0"
+	"Pref_AUDIO_UNITS_DB" = 01
+	"Pref_DISABLE_SMART_TIME_CACHING" = 00
+	"Pref_GRAPH_PIXEL_HEIGHT" = "4"
+	"Pref_GROUP_CLOSE_WINDOWS" = 01
+	"Pref_LAST_DATE_TIME" = "-709854749"
+	"Pref_MAXON_CRASH_PREVENTION_HACKS_ENABLED2" = 00
+	"Pref_MOVIESTASK_TIMEOUT_SECS" = "240"
+	"Pref_RENDER_THUMBNAILS" = "1"
+	"Pref_SCRIPTING_FILE_NETWORK_SECURITY" = "0"
+	"Pref_SHOW_INFO_FLOATER_PROGRESS" = 00
+	"Pref_TRANSPARENCY_GRID_COLOR1" = "0x00cccccc"
+	"Pref_TRANSPARENCY_GRID_COLOR2 v2" = "0x00ffffff"
+	"Pref_TREE_WIND_DATA" = 00000000000000000000000000000000
+	"Pref_USE_PFC" = "1"
+	"User Interface Inverted Text Color" = "0xffeeeeee"
+	"User Interface Inverted Text Color (Inactive)" = "0xffdddddd"
+	"User Interface Max Darkness Percent" = "50"
+	"User Interface Max Lightness Percent" = "50"
+
+["Max SmartEffects Stack Usage 5"]
+	"Per-Node" = "0"
+	"Total" = "8000000"
+
+["Maya Camera"]
+	"Use Linear Units" = "0"
+
+["Memory"]
+	"Memory - Pay Attention To Low Memory" = "0"
+
+["Memory Heap Preferences"]
+	"Audio Playback Memory Reserve v2" = "4194304"
+	"Memory Balloon for MPEG Constant (MB)" = "6"
+	"Memory Balloon for MPEG Factor (Factor x Image Size Bytes)" = "4.000000"
+
+["Misc Section"]
+	"Alternate SmartFX Time Comparison" = "1"
+	"Cache TLW Stream Paths" = 01
+	"Display custom file icons in project and timeline" = "1"
+	"Enable Experimental Roto Brush params" = 00
+	"Enable WorkQueue Panel" = 00
+	"Enable auto preprocessing in built-in tracker" = 01
+	"Enable new tracking algorithm in built-in tracker" = 01
+	"Enable subpixel match from AE 5.5 in built-in tracker (at 1/16)" = 00
+	"Event Sleep Time Ticks" = "5"
+	"Experimental Background Render Mode" = "0"
+	"Idle Timer Background Throttle Multiplier" = "3"
+	"Idle Timer Frequency 2" = "0.033000"
+	"Info Palette Pixel Display" = "0"
+	"Interpolate feature in built-in tracker" = 00
+	"KMP_DUPLICATE_LIB_OK" = "1"
+	"Log When Annoying Abort Assert Frequency Exceeded" = "0"
+	"Media Manager Cache Percentage" = "0.150000"
+	"Minimum space left on output disk in MB" = "50"
+	"New Maximum open files on OS X" = "8000"
+	"Progress bar average decay % (0 - 100)" = "80"
+	"Progress bar average reset threshold % (0 - 100)" = "10"
+	"Show 8/16bpc Effect Menu Indicators" = "0"
+	"Time needle scrub and preview update frequency (seconds)" = "0.050000"
+	"Unflatten sequence data before NewContext" = "1"
+	"Use AGM Drawbot" = 00
+	"Use Adobe Raster Express v4" = 01
+
+["Most Recently Used (MRU) Files and Effect Match Names"]
+	"MRU Project Search Saved Term (v2) 1" = "Efeitos ausentes"
+	"MRU Project Search Saved Term (v2) 2" = "Fontes ausentes"
+	"MRU Project Search Saved Term (v2) 3" = "Grava"C3A7C3A3"o ausente"
+	"MRU Project Search Saved Term (v2) 4" = "N"C3A3"o usado"
+	"MRU Project Search Saved Term (v2) 5" = "Usado"
+	"MRU Timeline Saved Search Term (v2) 1" = "Ambiente, Difus"C3A3"o, Intensidade especular, Brilho especular, Metal"
+	"MRU Timeline Saved Search Term (v2) 2" = "Cor"
+	"MRU Timeline Saved Search Term (v2) 3" = "Efeitos ausentes"
+	"MRU Timeline Saved Search Term (v2) 4" = "Fontes ausentes"
+	"MRU Timeline Saved Search Term (v2) 5" = "Posi"C3A7C3A3"o, Ponto de ancoragem, Ponto de interesse, Rota"C3A7C3A3"o, Orient"\
+		"a"C3A7C3A3"o, Escala, Opacidade"
+	"MRU Timeline Saved Search Term (v2) 6" = "Posi"C3A7C3A3"o, Rota"C3A7C3A3"o, Escala"
+	"MRU Timeline Saved Search Term (v2) 7" = "Profundidade do chanfro, Profundidade da extrus"C3A3"o, Curvatura"
+	"MRU Timeline Saved Search Term (v2) 8" = "Projeta sombras, Aceita sombras, Aceita luzes"
+	"MRU Timeline Saved Search Term (v2) 9" = "Transmiss"C3A3"o de luz, Intensidade do reflexo, Nitidez do reflexo, Corte de re"\
+		"flexo, Transpar"C3AA"ncia, Corte de transpar"C3AA"ncia, "C38D"ndice de refra"C3\
+		A7C3A3"o"
+	"Number of Favorite Menu Entries" = "20"
+	"Number of Footage Menu Entries" = "10"
+	"Number of Project Menu Entries" = "10"
+
+["Most Recently Used (MRU) Search v2"]
+	"MRU Default Directory Path ID # 0, File Path" = "D:\TUDO EDI"C387C383"O DE V"C38D"DEOS\TUDO AFFTER EFECT"
+	"MRU Default Directory Path ID # 1, File Path" = "D:\TUDO EDI"C387C383"O DE V"C38D"DEOS\pacote completo de edi"C3A7C3A3"o de v"C3AD\
+		"deo\PACK DA EDI"C387C383"O\Presets para After (PremiumBeat)"
+	"MRU Last Effect Match Name" = ""
+	"MRU Project Path ID # 0, File Path" = "D:\TUDO EDI"C387C383"O DE V"C38D"DEOS\TUDO AFFTER EFECT\Salvamento autom"C3A1"ti"\
+		"co do Adobe After Effects\Projetoaateste01 salvamento autom"C3A1"tico 4.aep"
+	"MRU Project Path ID # 0, IsAnywhere" = 00
+	"MRU Project Path ID # 1, File Path" = "D:\TUDO EDI"C387C383"O DE V"C38D"DEOS\TUDO AFFTER EFECT\lower third exeplos\Lowe"\
+		"r Thirds - Ricardo Arau"CC81"jo Designer\Twitter\Lower Third Twitter.aep"
+	"MRU Project Path ID # 1, IsAnywhere" = 00
+	"MRU Project Path ID # 2, File Path" = "D:\TUDO EDI"C387C383"O DE V"C38D"DEOS\TUDO AFFTER EFECT\lower third exeplos\Lowe"\
+		"r Thirds - Ricardo Arau"CC81"jo Designer\YouTube\Lower Third YouTube.aep"
+	"MRU Project Path ID # 2, IsAnywhere" = 00
+	"MRU Version" = 00000004
+
+["OpenEXR"]
+	"Auto Cache Threshold" = "0"
+	"Channel Cache Expiration" = "30"
+	"Channel Caches Number" = "3"
+	"Memory Map" = "0"
+	"Store Machine Info" = "0"
+	"Store Personal Info" = "0"
+
+["Output File Name Template Presets Section v4"]
+	"000" = "Nome da composi"E7E3"o"00"[compName].[fileExtension]"00
+	"001" = "Nome e Pasta Comp"00"[compName]/[compName].[fileExtension]"00
+	"002" = "Nome do m"F3"dulo de composi"E7E3"o e sa"ED"da"00"[compName]_[outputModuleName]."\
+		"[fileExtension]"00
+	"003" = "Nome do projeto e da composi"E7E3"o"00"[projectName]_[compName].[fileExtension]"00\
+		
+	"004" = "Nome e dimens"F5"es da composi"E7E3"o"00"[compName]_[width]x[height].[fileExtens"\
+		"ion]"00
+	"005" = "Intervalo de composi"E7F5"es e quadros"00"[compName]_[startFrame]-[endFrame].[fi"\
+		"leExtension]"00
+
+["PIN"]
+	"Allow read ahead for MPEG" = 01
+	"Enable Legacy Modules" = "0"
+
+["PREM"]
+	"Allow After Effects to track MediaCore Reserved Memory Usage" = "1"
+	"Close MediaCore Files In Batches Of" = "5"
+	"Minimum MediaCore Open Files" = "15"
+
+["PSD Import"]
+	"Images In Cache" = "10"
+	"Max MemUsage Percent v2" = "55"
+	"Scratch File Volume" = ""
+
+["Plug-in renderers"]
+	"Allow Standard 3D and OpenGL Hardware renderers to load from old projects" = "0"
+
+["Pref_New_SORT_PANELS v2"]
+	"Pref_New_SORT_PANELS_PROJ v5" = 0004000000000000000000000000000000000000000000000005001000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000100000000000000000000000000000000000400"f"00000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000100000000000000000000000000000000\
+		000A0015000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000010000000000000000\
+		0000000000000000000600"M"000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0100000000000000000000000000000000000700"0"000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000100000000000000000000000000000000000E00"2"000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000000000000000000000100000000000000000000000000000000000F00"S"00\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000001000"S"0000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000800"S"0000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000000000000000000001100"S"0000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000100000000000000000000000000000000001200"S"0000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000010000000000000000000000000000000000\
+		1300"S"000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000D00"M"000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0100000000000000000000000000000000000C00"@"000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000100000000000000000000000000000000000900FA00000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000100000000000000000000000000000000000B00"2"00\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000001400"@"0000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000100000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000
+	"Pref_New_SORT_PANELS_RQ" = 0000000000000000000000000000000000000000000000000005001000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000100000000000000000000000000000000000600"-"00000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000100000000000000000000000000000000\
+		00070015000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000010000000000000000\
+		00000000000000000008001900000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000001\
+		00000000000000000000000000000000000400"b"00000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000100000000000000000000000000000000000900"d"00000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000100000000000000000000000000000000000A00820000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000010000000000000000000000000000\
+		0000000B008200000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000001000000000000\
+		00000000000000000000000C00"Z"00000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000100000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000000000000000000000000000000000000000000000000000000
+	"Pref_New_SORT_PANELS_TL v2" = 000000000000000000000000000000000000000000000000000900"D"000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000001000000000000000000000000000000000005001000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000100000000000000000000000000000000\
+		00060010000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000010000000000000000\
+		0000000000000000000700"!"000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		01000000000000000000000000000000000004008200000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000100000000000000000000000000000000000800C80000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000000000000000000000000000000000000000000000A0089000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000001000000000000000000000000000000\
+		00000C00A60000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000D00"u"0000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000100000000000000000000000000000000000B00"/"0000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000000000000000000000000000000000E00"F"0000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000000000000000000000000000000000000000000000000000F00"F"\
+		""000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000001000"F"000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000000000000001100"="000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000012001000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000100000000000000000000000000000000001300C80000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000010000000000000000000000000000000000\
+		03001E00000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000001000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000000000000000000000000000000000000000000000000000000000000000000000000
+
+["Prefs.Display"]
+	"Show Alternate Time Display" = "1"
+
+["Preset Localization"]
+	"Disable Preset Localization" = "0"
+
+["Project Conversion Options"]
+	"Disable Automatic Upgrade of PAR" = "0"
+
+["Project Pref Section"]
+	"Effects Palette Options 2" = 0100000000000000030000000000000000000000000000000000000000000000000000000000000000\
+		0000000000000000000000000000000000000000000000
+	"Project Settings 6" = 000101001E100200000000
+
+["QuickTime Data References"]
+	"Ask user to resolve QuickTime movie data references" = 01
+
+["Realtime Update Dynamic Preview Preference Section"]
+	"Adaptive Resolution - Seconds Before a Frame Is Canceled and Downsampled" = "0.200000"
+	"Exclude Move Time In Comp Window" = 00
+	"Scrub - Time Allotted For Slow Render To Complete Before Canceling or Showing Wi"\
+		"reframe" = "0.250000"
+	"Scrub - Time Scrubbing Cancels Previous Render When Moving Mouse" = 01
+
+["Realtime Update Preference Section"]
+	"Minimum Adaptive Resolution" = "8"
+	"Use Modifier Key To Enable" = 00
+
+["Shape Graphic Preferences (Fill) v1"]
+	"Blend Mode" = "0.000000"
+	"Gradient Colors" = "<?xml version='1.0'?>"0A"<prop.map version='4'>"0A"<prop.list>"0A"<prop.pair>"0A\
+		"<key>Gradient Color Data</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Alpha Sto"\
+		"ps</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Stops List</key>"0A"<prop.list>"\
+		""0A"<prop.pair>"0A"<key>Stop-0</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Sto"\
+		"ps Alpha</key>"0A"<array>"0A"<array.type><float/></array.type>"0A"<float>0</fl"\
+		"oat>"0A"<float>0.5</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"<"\
+		"/prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A"<key>Stop-1</key>"0A"<prop.list>"\
+		""0A"<prop.pair>"0A"<key>Stops Alpha</key>"0A"<array>"0A"<array.type><float/></"\
+		"array.type>"0A"<float>1</float>"0A"<float>0.5</float>"0A"<float>1</float>"0A"<"\
+		"/array>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</p"\
+		"rop.pair>"0A"<prop.pair>"0A"<key>Stops Size</key>"0A"<int type='unsigned' size"\
+		"='32'>2</int>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A\
+		"<key>Color Stops</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Stops List</key>"0A\
+		"<prop.list>"0A"<prop.pair>"0A"<key>Stop-0</key>"0A"<prop.list>"0A"<prop.pair>"0A\
+		"<key>Stops Color</key>"0A"<array>"0A"<array.type><float/></array.type>"0A"<flo"\
+		"at>0</float>"0A"<float>0.5</float>"0A"<float>1</float>"0A"<float>1</float>"0A"<"\
+		"float>1</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"</prop.list"\
+		">"0A"</prop.pair>"0A"<prop.pair>"0A"<key>Stop-1</key>"0A"<prop.list>"0A"<prop."\
+		"pair>"0A"<key>Stops Color</key>"0A"<array>"0A"<array.type><float/></array.type"\
+		">"0A"<float>1</float>"0A"<float>0.5</float>"0A"<float>0</float>"0A"<float>0</f"\
+		"loat>"0A"<float>0</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"<"\
+		"/prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A"<"\
+		"key>Stops Size</key>"0A"<int type='unsigned' size='32'>2</int>"0A"</prop.pair>"\
+		""0A"</prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair"\
+		">"0A"<key>Gradient Colors</key>"0A"<string>1.0</string>"0A"</prop.pair>"0A"</p"\
+		"rop.list>"0A"</prop.map>"0A
+	"Opacity" = "1.000000"
+	"Paint Type" = "1"
+	"Solid Color Blue" = "0.000000"
+	"Solid Color Green" = "0.000000"
+	"Solid Color Red" = "1.000000"
+
+["Shape Graphic Preferences (Stroke) v1"]
+	"Blend Mode" = "0.000000"
+	"Gradient Colors" = "<?xml version='1.0'?>"0A"<prop.map version='4'>"0A"<prop.list>"0A"<prop.pair>"0A\
+		"<key>Gradient Color Data</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Alpha Sto"\
+		"ps</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Stops List</key>"0A"<prop.list>"\
+		""0A"<prop.pair>"0A"<key>Stop-0</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Sto"\
+		"ps Alpha</key>"0A"<array>"0A"<array.type><float/></array.type>"0A"<float>0</fl"\
+		"oat>"0A"<float>0.5</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"<"\
+		"/prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A"<key>Stop-1</key>"0A"<prop.list>"\
+		""0A"<prop.pair>"0A"<key>Stops Alpha</key>"0A"<array>"0A"<array.type><float/></"\
+		"array.type>"0A"<float>1</float>"0A"<float>0.5</float>"0A"<float>1</float>"0A"<"\
+		"/array>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</p"\
+		"rop.pair>"0A"<prop.pair>"0A"<key>Stops Size</key>"0A"<int type='unsigned' size"\
+		"='32'>2</int>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A\
+		"<key>Color Stops</key>"0A"<prop.list>"0A"<prop.pair>"0A"<key>Stops List</key>"0A\
+		"<prop.list>"0A"<prop.pair>"0A"<key>Stop-0</key>"0A"<prop.list>"0A"<prop.pair>"0A\
+		"<key>Stops Color</key>"0A"<array>"0A"<array.type><float/></array.type>"0A"<flo"\
+		"at>0</float>"0A"<float>0.5</float>"0A"<float>1</float>"0A"<float>1</float>"0A"<"\
+		"float>1</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"</prop.list"\
+		">"0A"</prop.pair>"0A"<prop.pair>"0A"<key>Stop-1</key>"0A"<prop.list>"0A"<prop."\
+		"pair>"0A"<key>Stops Color</key>"0A"<array>"0A"<array.type><float/></array.type"\
+		">"0A"<float>1</float>"0A"<float>0.5</float>"0A"<float>0</float>"0A"<float>0</f"\
+		"loat>"0A"<float>0</float>"0A"<float>1</float>"0A"</array>"0A"</prop.pair>"0A"<"\
+		"/prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair>"0A"<"\
+		"key>Stops Size</key>"0A"<int type='unsigned' size='32'>2</int>"0A"</prop.pair>"\
+		""0A"</prop.list>"0A"</prop.pair>"0A"</prop.list>"0A"</prop.pair>"0A"<prop.pair"\
+		">"0A"<key>Gradient Colors</key>"0A"<string>1.0</string>"0A"</prop.pair>"0A"</p"\
+		"rop.list>"0A"</prop.map>"0A
+	"Opacity" = "1.000000"
+	"Paint Type" = "1"
+	"Solid Color Blue" = "1.000000"
+	"Solid Color Green" = "1.000000"
+	"Solid Color Red" = "1.000000"
+	"Stroke Width" = "2.000000"
+
+["Temporary Debugging Options"]
+	"AIF Compiler Flavor" = "0"
+
+["Text and Fonts"]
+	"Show English Font Names" = 01
+
+["Tool Palette Settings v4"]
+	"Clone Auto Open Palettes" = "1"
+	"Deform Pin Mesh Expansion" = "3"
+	"Deform Pin Mesh Max Triangle" = "350"
+	"Deform Pin Mesh Show" = "0"
+	"Eraser Auto Open Palettes" = "1"
+	"Overlap Pin Extent" = "15.000000"
+	"Overlap Pin InFront" = "50.000000"
+	"Overlap Pin Mesh Show" = "0"
+	"Paintbrush Auto Open Palettes" = "1"
+	"Polygon Outer Roundness" = "0.000000"
+	"Polygon Points" = "5"
+	"RotoBez Mask Creation" = "0"
+	"Round Rectangle Radius" = "20.000000"
+	"Shapes Created As Bezier" = "0"
+	"Snapping" = 00
+	"Snapping Beyond Boundaries" = 00
+	"Star Inner Outer Ratio" = "0.500000"
+	"Star Inner Roundness" = "0.000000"
+	"Star Outer Roundness" = "0.000000"
+	"Star Points" = "5"
+	"Starch Pin Amount" = "15.000000"
+	"Starch Pin Extent" = "15.000000"
+	"Starch Pin Mesh Show" = "0"
+	"Text Auto Open Palettes" = "1"
+
+["Unified Preview Options Shared"]
+	"Options Mode" = "1"
+	"Preview Favors Active Camera" = "1"
+
+["Unified Preview Options Shared Experimental"]
+	"End Preview Rules" = "0"
+
+["Unified Preview Options Spacebar"]
+	"Audio" = 01
+	"Frame Rate" = "Autom"E1"tico"
+	"Full Screen" = 00
+	"Layer Controls And Overlays (Turn Off : 0, Use View Settings : 1)" = "0"
+	"Looping" = 00000000
+	"Play From (Current Time : 0, Start Of Range : 1)" = "1"
+	"Preview Favors (Frame Rate : 0, Length : 1)" = "0"
+	"Range Menu (Work Area : 0, Work Area Extended By Current Time : 1, Entire Durati"\
+		"on : 2)" = "1"
+	"Resolution Menu Index" = "0"
+	"Skip Frames" = "0"
+	"When Caching Is Interrupted During Preview Favors Frame Rate (Stop Preview : 0, "\
+		"Begin Playback Loop Of Cached Frames : 1 )" = "1"
+	"When Preview Is Stopped, Current Time (Moves To Preview Stop Time : 0, Returns T"\
+		"o Original Time : 1)" = "0"
+
+["Viewer Tab Auto Lock"]
+	"AE Composition" = 00
+	"AE Effect Controls" = 00
+	"AE Flow" = 00
+	"AE Footage" = 00
+	"AE Layer" = 00
+
+["Win32 Video Preview Pref Section"]
+	"Video Preview Enabled" = 00
+
+["Workspace Preference Section 2"]
+	"Current Workspace2" = "Padr"C3A3"o"
+	"Version" = "4"
+

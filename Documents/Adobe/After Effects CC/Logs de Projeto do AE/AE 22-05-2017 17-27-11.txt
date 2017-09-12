@@ -1,0 +1,12 @@
+Log de renderização do Adobe After Effects v13.5 Windows 64 para o projeto“Projeto do AE”
+
+Renderização iniciada em 22/05/2017 às 17:27:11
+
+  22/05/2017 17:27:11: iniciando composição “DSCN1795”.
+
+  Saída para: D:\TUDO EDIÇÃO DE VÍDEOS\OUTRAS COISAS VIDEOS\PASTA TESTE VOLEI\DSCN1795.avi    22/05/2017 17:28:27: composição concluída “DSCN1795”.
+
+
+  Tempo total decorrido: 1 min, 16 s
+Log fechado em 22/05/2017 às 17:28:27
+

@@ -1,0 +1,183 @@
+# "Interpretation Rules.txt"
+
+# Interpretação de gravação automática do Adobe After Effects
+
+# são permitidas linhas em branco, e linhas que começam com "#" são comentários
+
+# formato básico de uma regrá fixa: {requisitos de correspondência} = {definir interpretação}
+# formato básico de uma regra flexível: {requisitos de correspondência} ~ {definir interpretação}
+
+# + para cada regra correspondente, a interpretação é definida; curingas ("*" permitidos)
+#	em ambos os lados; combinação de curinga corresponde a qualquer coisa, definição de curinga não define nada
+# + várias regras podem corresponder, correspondências mais recentes substituem as mais antigas
+# + todas as regras são varridas em ordem, uma regra por linha
+# + regras são aplicadas após a taxa de proporção de pixels, informações de alfa e rótulo de campo
+#	informações lidas de um arquivo
+
+# + regras flexíveis não substituirão valores especificados explicitamente pelo arquivo
+#	formatar ou definir por regras anteriores
+
+# largura, altura, taxa de quadros, tipo de arquivo, codec =
+#	taxa de proporção de pixels/nome, ordem de campos, taxa de quadros de conformação, interpretação de alfa, código de perfil icc
+#	ou descrição do perfil (um ou outro), luz linear
+
+# largura e altura são números inteiros
+# a taxa de quadros é um número decimal
+# o tipo de arquivo é de quatro caracteres entre aspas (FourCC)
+# o codec (aplicável para QT e AVI apenas) também é FourCC
+
+# para descobrir o tipo de arquivo e/ou o FourCC do codec para um tipo específico de gravação,
+#	clique com a tecla Option pressionada (Mac) ou clique com a tecla Alt pressionada (Windows) na gravação na janela do projeto;
+#	os códigos FourCC aparecerão na última linha de texto ao lado da miniatura
+
+# a taxa de proporção de pixels é uma proporção de números inteiros (ex: 10/11)
+#	seguidos opcionalmente por um nome para essa proporção (ex: 10/11/“Minha proporção”)
+# No After Effects CS4 (v9), modificamos a taxa de proporção de pixels para vários formatos comuns:
+#	D1/DV NTSC de 648/720 (0,9) a 10,0/11,0 (cerca de 0,9091)
+#	D1/DV NTSC Widescreen de 6/5 (1,2) a 40/33 (cerca de 1,2121)
+#	D1/DV PAL de 768/720 (1,07) a 768/702 (cerca de 1,0940)
+#	D1/DV PAL Widescreen de 64/45 (1,42) para 1024,0/702,0 (cerca de 1,4587)
+
+# a ordem de campos é um único caractere, (F=quadro, U=campo superior ou L=campo inferior)
+# a taxa de quadros de conformação é um número decimal
+# interpretação de alfa: (I=ignorar, S=simples, P=premultiplicação/preto, W=premultiplicação/branco)
+#	a interpretação de alfa é ignorada para gravação sem um canal alfa
+
+# o perfi ICC é especificado por código de perfil, que é FourCC, ou por
+#	descrição do perfil, que é uma sequência de caracteres entre aspas com no máximo 255 caracteres mais as aspas
+
+# Os códigos de perfil com suporte são:
+#	- perfil do espaço de trabalho: "wRGB"
+#	- perfil incorporado: "embe"
+#	- preservar RGB: "pRGB" (faz exatamente o mesmo que a caixa de seleção Preservar RGB na caixa de diálogo Interpretar gravação)
+#	- sRGB: "sRGB"
+#	- Adobe RGB: "AS98"
+#	- Perfil de filme Kodak 5218: "ginp"
+#	- SDTV NTSC: "r6nf" (SMPTE RP 145 primários e ITU-R Rec. 709 TRCs. Preto é codificado em 0 e branco é codificado em 1.)
+#	- SDTV NTSC 16-235: "r6ns" (SMPTE RP 145 primários e ITU-R Rec. 709 TRCs. Preto é codificado em 16/255 e branco é codificado em 235/255.)
+#	- SDTV PAL: "r6pf" (EBU Tech. 3213 primários e ITU-R Rec. 709 TRCs. Preto é codificado em 0 e branco é codificado em 1.)
+#	- SDTV PAL 16-235: "r6ps" (EBU Tech. 3213 primários e ITU-R Rec. 709 TRCs. Preto é codificado em 16/255 e branco é codificado em 235/255.)
+#	- HDTV (Rec. 709): "r7hf" (ITU-R Rec. 709 primários e TRCs. Preto é codificado em 0 e branco é codificado em 1.)
+#	- HDTV (Rec. 709) 16-235: "r7hs" (ITU-R Rec. 709 primários e TRCs. Preto é codificado em 16/255 e branco é codificado em 235/255.)
+
+# A descrição do perfil pode ser pesquisada na interface do usuário (informações de miniatura da janela do projeto) ou em um
+# utilitário de cores, como o ColorSync, ou é definido pelo usuário durante a criação de um perfil personalizado
+
+# luz linear é um inteiro (0=Desativado, 1=Ativado, 2=Ativado para gravação de 32 bpc)
+
+# regra flexível; supor que ATSC 704x480 em qualquer formato tenha proporção D1
+704, 480, 29.97, *, * ~ 10/11, *, *, *, *, *
+
+# regras NTSC
+# regra flexível; supor que formatos de 720x480 29,97fps sejam DV NTSC (inferior, proporção NTSC D1/DV)
+# regra flexível; supor que formatos de 720x480 com todas as taxas de quadros tenham uma taxa de proporção de pixels NTSC DV/D1
+# regra flexível; supor que formatos de 720x486 com todas as taxas de quadros tenham uma taxa de proporção de pixels NTSC DV/D1
+# regra flexível; supor que formatos MediaCore nativos de 720x480 e 720x486 sejam SDTV NTSC
+# regra flexível; supor que arquivos DVCPro50 de 720x480 sejam SDTV NTSC
+720, 480, 29.97, *, * ~ 10/11, L, *, *, *, *
+720, 480, *, *, * ~ 10/11, *, *, *, *, *
+720, 486, *, *, * ~ 10/11, *, *, *, *, *
+720, 480, *, *, "dvc " ~ *, *, *, *, "r6nf", *
+720, 486, *, *, "v210" ~ *, *, *, *, "r6nf", *
+720, 486, *, *, "UYVY" ~ *, *, *, *, "r6nf", *
+720, 486, *, *, "2vuy" ~ *, *, *, *, "r6nf", *
+720, 480, *, *, "dv5n" ~ *, *, *, *, "r6nf", *
+
+# regras PAL
+# regra flexível; supor que formatos de 720x576 25fps sejam DV PAL (inferior, proporção PAL D1/DV)
+# regra flexível; supor que formatos de 720x576 com todas as taxas de quadros tenham uma taxa de proporção de pixels PAL DV/D1 
+# regra flexível; supor que formatos MediaCore nativos de 720x576 sejam SDTV PAL
+# regra flexível; supor que arquivos DVCPro50 de 720x576 sejam SDTV PAL
+720, 576, 25, *, * ~ 768/702, L, *, *, *, *
+720, 576, *, *, * ~ 768/702, *, *, *, *, *
+720, 576, *, *, "dvcp" ~ *, *, *, *, "r6pf", *
+720, 576, *, *, "v210" ~ *, *, *, *, "r6pf", *
+720, 576, *, *, "UYVY" ~ *, *, *, *, "r6pf", *
+720, 576, *, *, "2vuy" ~ *, *, *, *, "r6pf", *
+720, 576, *, *, "dv5p" ~ *, *, *, *, "r6pf", *
+
+# regras de D16/D4
+# regras flexíveis; supor que formatos de 2880x2048 e 1440x1024 com todas as taxas de quadros tenham uma taxa de proporção de pixels de D16/D4
+# removido de 7.0 -- remova comentários para reativar
+# 2880, 2048, *, *, * ~ 128/135, *, *, *, *, *
+# 1440, 1024, *, *, * ~ 128/135, *, *, *, *, *
+
+# regras de HD/HDV
+# regra flexível; Panasonic Varicam é de 960x720
+# regra flexível; Sony HDV é 1440x1080, campo superior primeiro
+# regra flexível; supor que formatos MediaCore nativos dimensionados para HD sejam HDTV com giro total
+960, 720, *, *, * ~ 1280/960/"HDV", *, *, *, *, *
+1440, 1080, 25, *, * ~ 1280/960/"HDV", U, *, *, *, *
+1440, 1080, 29.97, *, * ~ 1280/960/"HDV", U, *, *, *, *
+1280, 720, *, *, "v210" ~ *, *, *, *, "r7hf", *
+1280, 720, *, *, "UYVY" ~ *, *, *, *, "r7hf", *
+1280, 720, *, *, "2vuy" ~ *, *, *, *, "r7hf", *
+1920, 1080, *, *, "v210" ~ *, *, *, *, "r7hf", *
+1920, 1080, *, *, "UYVY" ~ *, *, *, *, "r7hf", *
+1920, 1080, *, *, "2vuy" ~ *, *, *, *, "r7hf", *
+
+# regra flexível; supor que formatos HDV sejam HDTV com giro total
+*, *, *, *, "hdv1" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv2" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv3" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv4" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv5" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv6" ~ *, *, *, *, "r7hf", *
+*, *, *, *, "hdv7" ~ *, *, *, *, "r7hf", *
+
+# supor que NTSC DV tenha proporção de D1, campo inferior
+# <regras obsoletas -- substituídas pelas regras flexíveis acima>
+# 720, 480, 29.97, "MooV", "dvc " = 10/11, L, *, *, *, *
+# 720, 480, 29.97, "MooV", "dvpn" = 10/11, L, *, *, *, *
+# 720, 480, 29.97, ".AVI", "dvsd" = 10/11, L, *, *, *, *
+
+# regra flexível: marcar arquivos Cineon com o perfil Kodak 5218
+# remover comentário abaixo para ativar
+# *, *, *, "sDPX", * ~ *, *, *, *, "ginp", *
+
+# regra flexível: marcar por enquanto todos os arquivos Cineon com RGB de trabalho
+*, *, *, "sDPX", * ~ *, *, *, *, "wRGB", *
+
+# regra para disponibilizar arquivos raw como Rec709
+# com dados flutuantes de 32 bits codificados em Gama
+*, *, *, "R3D ", * ~ *, *, *, *, "r7hf", 0
+
+# esta regra flexível deve ser a última na lista de regras flexíveis
+# regra flexível: marcar todas as gravações não marcadas com um perfil sRGB
+*, *, *, *, * ~ *, *, *, *, "sRGB", *
+
+# regras específicas de formato e hardware
+
+# Mídia 100 640 x 480 é pixel quadrado, campo superior primeiro
+640, 480, 29.97, "MooV", "dtmt" = 1/1, U, *, *, *, *
+
+# Acabamento de mídia 100 720 x 486 tem proporção de pixels D1, campo inferior primeiro
+720, 486, 29.97, "MooV", "dtNT" = 10/11, L, *, *, *, *
+
+# supor que Matrox DigiSuite tenha proporção de pixels D1, campo inferior primeiro
+720, 486, 29.97, ".AVI", "MJPG" = 10/11, L, *, *, *, *
+
+# supor que Pinnacle Targa 3000 YUV tenha proporção de pixels D1, campo inferior primeiro
+720, 486, 29.97, ".AVI", "UYVY" = 10/11, L, *, *, *, *
+
+# Mídia 100 Mac 720 x 486 é rotulada por campo por Mídia 100 e
+# pode ser superior ou inferior, dependendo do hardware, mas
+# excluir comentário na próxima linha para forçar D1, campo inferior primeiro
+# 720, 486, 29.97, "MooV", "dtmt" = 10/11, L, *, *, *, *
+
+# Avid 640x480 tem pixels quadrados, campo superior primeiro
+640, 480, *, "MooV", "avr " = 1/1, U, *, *, *, *
+
+# Avid Meridien Codec NTSC é campo inferior primeiro
+720, 486, 29.97, *, "AVDJ" = 10/11, L, *, *, *, *
+720, 486, 29.97, *, "AVUI" = 10/11, L, *, *, *, *
+
+# Electric Image grava arquivos alfa simples
+*, *, *, "EID2", * = *, *, *, S, *, *
+
+# OpenEXR é pré-multiplicado por convenção
+*, *, *, "oEXR", * ~ *, *, *, P, *, *
+
+# somente adiciona uma taxa de proporção de pixels personalizada ao pop-up em Configurações de composição e Interpretar gravação
+# caixas de diálogo -- exclua o comentário na próxima linha para testar
+# 0, 0, 0, "0000", * = 10/11/"Custom Aspect", *, *, *, *, *

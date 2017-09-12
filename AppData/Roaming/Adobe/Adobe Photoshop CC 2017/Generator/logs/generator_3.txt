@@ -1,0 +1,271 @@
+Logging Generator in directory: C:\Users\PC\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Generator\logs
+Use '-v' option to print logs to stdout
+Log file created on Mon Sep 11 2017 14:07:42 GMT-0300 (Hora oficial do Brasil)
+
+[debug:core 14:07:42.487 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
+{}
+[debug:core 14:07:42.487 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
+ version 18.1.1
+ pathundefined
+
+[info:core 14:07:42.496 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:227:25] Detected Photoshop version: 18.1.1
+[1;31mNo viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop CC 2017\Plug-ins\Generator'
+[0m[debug:core 14:07:42.686 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: generator-assets (v2.7.3) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate
+[debug:core 14:07:42.856 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: generator-assets
+[debug:core 14:07:42.857 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: crema (v3.0.8) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\crema.generate
+[debug:core 14:07:43.166 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: crema
+[debug:core 14:07:43.167 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: generator-spaces (v0.4.3) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate
+[debug:core 14:07:43.416 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: generator-spaces
+[debug:core 14:07:43.417 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: adobe-preview-generator-plugin (v1.3.2-55e9765) from directory: C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\previewHD.generate
+[debug:core 14:07:43.927 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: adobe-preview-generator-plugin
+[info:generator-spaces 14:07:43.930 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:36:20] Starting websocket server...
+[info:core 14:07:44.535 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\photoshop.js:475:26] 17ms to receive 0 kB (2.2 kB/s)
+[warning:core 14:07:44.628 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 15, body: 'Error: No image open' }
+[warning:generator-assets 14:07:44.652 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:336:26] Error: No image open
+[warning:core 14:07:44.857 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 20, body: 'Error: No image open' }
+[warning:crema 14:07:44.858 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[warning:core 14:07:45.100 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 25, body: 'Error: No image open' }
+[warning:adobe-preview-generator-plugin 14:07:45.101 C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\previewHD.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[info:generator-spaces 14:07:45.201 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:39:28] Started websocket server on port 59596
+[warning:core 14:07:45.293 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 29, body: 'Error: No image open' }
+[warning:generator-spaces 14:07:45.294 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[info:generator-spaces 14:07:45.389 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:44:28] For kicks, fetched stored port from generator:  59596
+[error:generator-assets 14:14:53.511 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 238 },
+  { id: 243,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: false,
+       fillEnabled: true,
+       strokeStyleLineWidth: 1,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 14:14:53.514 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[1;31mSkipping out of order change: this 5@1505150093.512; change 5@1505150093.512
+[0m[error:generator-assets 14:27:58.920 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 247,
+    index: 2,
+    added: true,
+    type: 'layer',
+    name: 'Objeto Inteligente de Vetor',
+    bounds: { top: 84, left: 345, bottom: 129, right: 487 } },
+  { id: 248, added: true, removed: true } ] [Error: Unknown layer type:]
+[warning:generator-assets 14:27:58.921 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 14:31:39.368 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 238 },
+  { id: 252,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: false,
+       fillEnabled: true,
+       strokeStyleLineWidth: 1,
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 14:31:39.372 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[1;31mSkipping out of order change: this 63@1505151099.389; change 63@1505151099.389
+[0m[error:generator-assets 14:32:26.170 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 254,
+    index: 2,
+    added: true,
+    type: 'layer',
+    name: 'Objeto Inteligente de Vetor',
+    bounds: { top: 76, left: 315, bottom: 121, right: 457 } },
+  { id: 255, added: true, removed: true } ] [Error: Unknown layer type:]
+[warning:generator-assets 14:32:26.172 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 14:44:03.782 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[error:generator-assets 14:44:03.784 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:866:26] Error updating property selection [ 3 ] [Error: Unable to set selection: no layer found at index 3]
+[warning:generator-assets 14:44:03.786 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 15:00:36.645 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.30667,
+  xy: 0,
+  yx: 0,
+  yy: 1.22735,
+  tx: -279.111,
+  ty: -37.3002 }
+[warning:generator-assets 15:03:16.485 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[error:generator-assets 15:03:16.489 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:866:26] Error updating property selection [ 3 ] [Error: Unable to set selection: no layer found at index 3]
+[warning:generator-assets 15:03:16.494 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 15:17:50.788 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 264 },
+  { id: 280,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: false,
+       fillEnabled: false,
+       strokeStyleLineWidth: [Object],
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 15:17:50.793 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[1;31mSkipping out of order change: this 232@1505153870.788; change 232@1505153870.788
+[0m[error:generator-assets 15:17:55.889 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 264 },
+  { id: 280,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: [Object],
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 15:17:55.894 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[1;31mSkipping out of order change: this 238@1505153875.892; change 238@1505153875.892
+[0m[error:generator-assets 15:17:58.361 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 264 },
+  { id: 280,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: [Object],
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 15:17:58.366 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 15:17:59.521 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 264 },
+  { id: 280,
+    changed: true,
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: [Object],
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 15:17:59.526 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[error:generator-assets 15:18:06.236 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 264 },
+  { id: 280,
+    changed: true,
+    fill: { color: [Object], class: 'solidColorLayer' },
+    strokeStyle: 
+     { strokeStyleVersion: 2,
+       strokeEnabled: true,
+       fillEnabled: false,
+       strokeStyleLineWidth: [Object],
+       strokeStyleLineDashOffset: [Object],
+       strokeStyleMiterLimit: 100,
+       strokeStyleLineCapType: 'strokeStyleButtCap',
+       strokeStyleLineJoinType: 'strokeStyleMiterJoin',
+       strokeStyleLineAlignment: 'strokeStyleAlignInside',
+       strokeStyleScaleLock: false,
+       strokeStyleStrokeAdjust: false,
+       strokeStyleBlendMode: 'normal',
+       strokeStyleOpacity: [Object],
+       strokeStyleContent: [Object],
+       strokeStyleResolution: 72 },
+    path: 
+     { pathComponents: [Object],
+       bounds: [Object],
+       defaultFill: false },
+    rasterized: true,
+    timeContent: true } ] [Error: Unknown change]
+[warning:generator-assets 15:18:06.241 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[1;31mSkipping out of order change: this 247@1505153886.237; change 247@1505153886.237
+[0m[warning:generator-assets 15:20:44.368 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.769231, xy: 0, yx: 0, yy: 0.763158, tx: -3, ty: 5.21053 }
+[warning:generator-assets 15:20:44.373 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.769231,
+  xy: 0,
+  yx: 0,
+  yy: 0.763158,
+  tx: 161.308,
+  ty: 54.4737 }
+[warning:generator-assets 15:22:20.664 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1, xy: 0, yx: 0, yy: 1.12893, tx: 0, ty: 0.515723 }
+[warning:generator-assets 15:36:12.024 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[error:generator-assets 15:36:14.774 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\document.js:851:34] Error updating property layers [ { id: 258,
+    index: 13,
+    layers: [ [Object], [Object], [Object], [Object] ] } ] [Error: Can't find changed layer:]
+[warning:generator-assets 15:36:14.778 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:308:26] Unable to apply change to document
+[warning:generator-assets 15:38:02.596 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 1.22887, xy: 0, yx: 0, yy: 1.61875, tx: 672.306, ty: 418.384 }
+[warning:generator-assets 15:38:02.601 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: timeContent true
+[warning:core 16:08:56.291 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe read error: Error: EPIPE: broken pipe, read
+[info:core 16:08:56.296 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[info:core 16:08:56.300 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m

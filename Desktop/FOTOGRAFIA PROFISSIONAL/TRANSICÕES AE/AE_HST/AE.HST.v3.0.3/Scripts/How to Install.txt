@@ -1,0 +1,15 @@
+Note! HST Script, running in versions After Effects, from CC.2014 and above! To use transitions in earlier versions of After Effects, use the manual method.
+
+----------
+
+Installing HST Script:
+
+On Windows - copy "HST Script" folder in: Program Files\Adobe\Adobe After Effects CC 2014(2015)\Support Files
+
+On Mac - copy "HST Script" folder in: library/Application Support/Adobe/CEP/extention
+Note! If you don't have "CEP" and "Extensions" folders - you just need to create them.
+
+----------
+ 
+Installing Change Resolution Script: copy "Change Resolution.jsxbin" file in Script Directory.
+Example: Program Files\Adobe\Adobe After Effects ****\Support Files\Scripts 

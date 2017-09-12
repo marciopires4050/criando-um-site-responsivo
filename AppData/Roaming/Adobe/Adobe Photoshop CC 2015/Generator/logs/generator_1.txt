@@ -1,0 +1,23 @@
+Log file created on Tue Aug 08 2017 14:07:00 GMT-0300 (Hora oficial do Brasil)
+
+[debug:core 14:07:00.955 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
+{}
+[debug:core 14:07:00.955 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
+ version 16.0.0
+ pathundefined
+
+[info:core 14:07:00.955 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:205:25] Detected Photoshop version: 16.0.0
+[1;31mNo viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop CC 2015\Plug-ins\Generator'
+[0m[debug:core 14:07:01.913 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: generator-assets
+[debug:core 14:07:02.070 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: generator-assets
+[debug:core 14:07:02.074 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: crema
+[debug:core 14:07:02.216 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: crema
+[debug:core 14:07:02.216 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: adobe-preview-generator-plugin
+[debug:core 14:07:02.584 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: adobe-preview-generator-plugin
+***************** SVG is enabled - OMG!
+requesting document info
+[warning:core 14:07:10.036 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe error: Error: EPIPE, read
+[info:core 14:07:10.040 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[info:core 14:07:10.045 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m

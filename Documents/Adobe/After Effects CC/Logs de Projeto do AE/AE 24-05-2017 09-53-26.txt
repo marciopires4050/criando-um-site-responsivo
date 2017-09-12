@@ -1,0 +1,12 @@
+Log de renderização do Adobe After Effects v13.5 Windows 64 para o projeto“Projeto do AE”
+
+Renderização iniciada em 24/05/2017 às 09:53:26
+
+  24/05/2017 09:53:26: iniciando composição “Lower_third_v2_6”.
+
+  Saída para: D:\TUDO EDIÇÃO DE VÍDEOS\OUTRAS COISAS VIDEOS\PASTA TESTE VOLEI\Lower_third_v2_6_1marexcel02.avi    24/05/2017 09:53:49: composição concluída “Lower_third_v2_6”.
+
+
+  Tempo total decorrido: 23 segundos
+Log fechado em 24/05/2017 às 09:53:49
+

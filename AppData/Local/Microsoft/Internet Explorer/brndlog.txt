@@ -1,0 +1,110 @@
+08/08/2017 17:42:36 Checking for existence of Branding Active Setup stub...
+08/08/2017 17:42:36 InternetExplorerBrandGUID didn't exist: Branding component not installed
+08/08/2017 17:42:36 Inf Version is set to "11,00,14393,1480".
+08/08/2017 17:42:36 Branding conditions failed. Applying only default branding.
+
+08/08/2017 17:42:36     COM initialized with S_FALSE success code.
+
+08/08/2017 17:42:36 Branding Internet Explorer...
+08/08/2017 17:42:36 Command line is "/mode:isp /peruser".
+
+08/08/2017 17:42:36 Global branding settings are:
+08/08/2017 17:42:36     Context is (0x01C00008) "Internet Content Providers, running from per-user stub";
+08/08/2017 17:42:36     Settings file is        "C:\Program Files (x86)\Internet Explorer\Signup\install.ins";
+08/08/2017 17:42:36     Target folder path is   "C:\Program Files (x86)\Internet Explorer\Signup".
+08/08/2017 17:42:36 Done.
+
+08/08/2017 17:42:36     About to clear previous branding...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing migration of old settings...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing wininet setup...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing deletion of connection settings...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing zones HKCU settings...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing local machine policies and restrictions...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing current user policies and restrictions...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing legacy policies and restrictions...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing general customizations...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing Help->About customization...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing browser toolbar buttons...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing root certificates...
+08/08/2017 17:42:36     Done.
+
+08/08/2017 17:42:36     Processing default favorites and/or quick links...
+08/08/2017 17:42:36     Creating separate thread for processing default favorites...
+
+08/08/2017 17:42:36     COM initialized with S_OK success code.
+08/08/2017 17:42:37         Determining favorites attributes...
+08/08/2017 17:42:37             <Favorites> folder location is "C:\Users\PC\Favorites".
+08/08/2017 17:42:37         marked as Low Integrity,
+08/08/2017 17:42:37         Title     - "Bing",
+08/08/2017 17:42:37         URL       - "http://go.microsoft.com/fwlink/p/?LinkId=255142",
+08/08/2017 17:42:37         Icon file - "%ProgramFiles%\Internet Explorer\Images\bing.ico",
+08/08/2017 17:42:37         not marked IEAK created,
+08/08/2017 17:42:37         Done.
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing deletion of favorites and/or quick links...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing favorites...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing ordering of favorites...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing quick links...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing ordering of quick links...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing connection settings...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Processing TrustedPublisherLockdown restriction...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Creating feeds...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Creating start pages...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Creating search providers...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Installing Activities...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Installing Unattend Favorite bar items...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Installing Unattend Activites...
+08/08/2017 17:42:37     Done.
+
+08/08/2017 17:42:37     Refreshing browser settings...
+08/08/2017 17:42:37     Broadcasting "Windows settings change" to all top level windows...
+08/08/2017 17:42:37     Done.
+08/08/2017 17:42:37 Done.
+08/08/2017 17:42:37 Done.

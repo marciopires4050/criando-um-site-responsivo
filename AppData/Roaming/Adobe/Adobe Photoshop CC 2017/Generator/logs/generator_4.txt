@@ -1,0 +1,40 @@
+Logging Generator in directory: C:\Users\PC\AppData\Roaming\Adobe\Adobe Photoshop CC 2017\Generator\logs
+Use '-v' option to print logs to stdout
+Log file created on Mon Sep 11 2017 11:25:21 GMT-0300 (Hora oficial do Brasil)
+
+[debug:core 11:25:21.902 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
+{}
+[debug:core 11:25:21.902 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
+ version 18.1.1
+ pathundefined
+
+[info:core 11:25:21.920 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:227:25] Detected Photoshop version: 18.1.1
+[1;31mNo viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop CC 2017\Plug-ins\Generator'
+[0m[debug:core 11:25:22.556 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: generator-assets (v2.7.3) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate
+[debug:core 11:25:22.709 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: generator-assets
+[debug:core 11:25:22.710 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: crema (v3.0.8) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\crema.generate
+[debug:core 11:25:23.043 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: crema
+[debug:core 11:25:23.044 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: generator-spaces (v0.4.3) from directory: C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate
+[debug:core 11:25:23.334 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: generator-spaces
+[debug:core 11:25:23.335 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1804:21] Loading plugin: adobe-preview-generator-plugin (v1.3.2-55e9765) from directory: C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\previewHD.generate
+[debug:core 11:25:23.919 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:1820:21] Plugin loaded: adobe-preview-generator-plugin
+[info:generator-spaces 11:25:23.921 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:36:20] Starting websocket server...
+[info:core 11:25:24.121 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\photoshop.js:475:26] 12ms to receive 0 kB (3.1 kB/s)
+[info:core 11:25:24.590 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\photoshop.js:475:26] 11ms to receive 0 kB (1.8 kB/s)
+[warning:core 11:25:24.727 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 17, body: 'Error: No image open' }
+[warning:generator-assets 11:25:24.741 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\assets.generate\lib\documentmanager.js:336:26] Error: No image open
+[warning:core 11:25:24.862 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 20, body: 'Error: No image open' }
+[warning:crema 11:25:24.863 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[info:core 11:25:25.060 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\photoshop.js:475:26] 13ms to receive 0 kB (1.5 kB/s)
+[warning:core 11:25:25.120 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 25, body: 'Error: No image open' }
+[warning:adobe-preview-generator-plugin 11:25:25.121 C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\previewHD.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[info:core 11:25:25.198 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\photoshop.js:475:26] 12ms to receive 0 kB (1.6 kB/s)
+[info:generator-spaces 11:25:25.277 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:39:28] Started websocket server on port 59596
+[warning:core 11:25:25.644 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 30, body: 'Error: No image open' }
+[warning:generator-spaces 11:25:25.645 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\node_modules\generator-assets\lib\documentmanager.js:336:26] Error: No image open
+[info:generator-spaces 11:25:25.758 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Plug-ins\Generator\spaces.generate\main.js:44:28] For kicks, fetched stored port from generator:  59596
+[warning:core 11:30:02.021 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe read error: Error: EPIPE: broken pipe, read
+[info:core 11:30:02.021 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[info:core 11:30:02.022 C:\Program Files\Adobe\Adobe Photoshop CC 2017\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[1;31mExiting with code 0: Generator close event
+[0m
