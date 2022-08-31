@@ -1,7 +1,0 @@
-Log file created: 09/08/2017 13:57:23
----------------------------------------
-2017-08-09T16:57:23.208125 <11804> <AnywhereLocalHub> <5> Team Projects Local Hub, platform: Windows, sysVersion: 2.0, version: 2.0.1, build: Development, dataModel: 2.0.1, suiteClient: 2017
-2017-08-09T16:57:23.218876 <11804> <AnywhereLocalHub> <5> Started local HTTP server, port: 52942
-2017-08-09T16:57:26.265455 <7860> <dvacore.StructuredLogging> <5> Unable to login to remote hub, status: 403, server: https://cc-api-teamprojects.adobe.io:443, user: mpbox80@gmail.com, email: , firstName: , lastName: , expression: !dvanet::IsSuccessfulHTTPStatus(inStatus)
-2017-08-09T16:57:29.490187 <12152> <dvacore.StructuredLogging> <5> Unable to login to remote hub, status: 403, server: https://cc-api-teamprojects.adobe.io:443, user: mpbox80@gmail.com, email: , firstName: , lastName: , expression: !dvanet::IsSuccessfulHTTPStatus(inStatus)
-2017-08-09T16:57:31.477075 <7860> <dvacore.StructuredLogging> <5> Unable to login to remote hub, status: 403, server: https://cc-api-teamprojects.adobe.io:443, user: mpbox80@gmail.com, email: , firstName: , lastName: , expression: !dvanet::IsSuccessfulHTTPStatus(inStatus)

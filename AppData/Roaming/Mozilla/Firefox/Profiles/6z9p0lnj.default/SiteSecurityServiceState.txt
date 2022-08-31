@@ -1,4 +1,0 @@
-self-repair.mozilla.org:HPKP	0	17416	1504864983642,1,0,WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18=r/mIkG3eEpVdm+u/ko/cwxzOMo1bk4TyHIlByibiA5E=YLh1dUR9y6Kja30RrAn7JKnbQG/uEtLMkBgFF2Fuihg=sRHdihwgkaib1P1gxX8HFszlD+7/gTfNvuAybgLPNis=
-shavar.services.mozilla.com:HSTS	0	17416	1536314606133,1,1
-self-repair.mozilla.org:HSTS	0	17416	1536314583639,1,1
-aus5.mozilla.org:HSTS	0	17416	1536314637255,1,0

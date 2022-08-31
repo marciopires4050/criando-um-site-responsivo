@@ -1,27 +1,355 @@
-Log file created on Tue Aug 08 2017 13:47:18 GMT-0300 (Hora oficial do Brasil)
+Log file created on Thu Sep 13 2018 09:31:30 GMT-0300 (Hora oficial do Brasil)
 
-[debug:core 13:47:19.333 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
+[debug:core 09:31:30.824 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
 {}
-[debug:core 13:47:19.334 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
+[debug:core 09:31:30.825 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
  version 16.0.0
  pathundefined
 
-[info:core 13:47:19.335 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:205:25] Detected Photoshop version: 16.0.0
+[info:core 09:31:30.835 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:205:25] Detected Photoshop version: 16.0.0
 [1;31mNo viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop CC 2015\Plug-ins\Generator'
-[0m[debug:core 13:47:24.539 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: generator-assets
-[debug:core 13:47:25.271 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: generator-assets
-[debug:core 13:47:25.271 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: crema
-[debug:core 13:47:26.393 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: crema
-[debug:core 13:47:26.393 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: adobe-preview-generator-plugin
-[debug:core 13:47:29.557 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: adobe-preview-generator-plugin
+[0m[debug:core 09:31:35.242 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: generator-assets
+[debug:core 09:31:35.888 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: generator-assets
+[debug:core 09:31:35.892 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: crema
+[debug:core 09:31:36.849 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: crema
+[debug:core 09:31:36.853 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: adobe-preview-generator-plugin
+[debug:core 09:31:39.676 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: adobe-preview-generator-plugin
 ***************** SVG is enabled - OMG!
 requesting document info
-[warning:core 13:47:30.252 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 14, body: 'Error: No image open' }
-[warning:generator-assets 13:47:30.257 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:300:26] Error: No image open
-[warning:core 13:47:30.389 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 17, body: 'Error: No image open' }
-[warning:crema 13:47:30.389 C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:300:26] Error: No image open
-[warning:core 13:47:31.504 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe error: Error: EPIPE, read
-[info:core 13:47:31.520 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
-[info:core 13:47:31.520 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[debug:generator-assets 09:31:53.513 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536841913.509,
+  "count": 1,
+  "id": 1492,
+  "selection": [
+    5
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:33:27.246 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536841922.595,
+  "count": 2,
+  "id": 1492,
+  "selection": [
+    5
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:33:27.252 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842007.247,
+  "count": 3,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 9,
+      "text": true
+    }
+  ]
+}
+[debug:generator-assets 09:33:32.865 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842012.862,
+  "count": 4,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 9,
+      "bounds": {
+        "top": 218,
+        "left": 113,
+        "bottom": 456,
+        "right": 545
+      }
+    }
+  ]
+}
+[debug:generator-assets 09:33:45.912 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842025.909,
+  "count": 5,
+  "id": 1492,
+  "selection": [
+    6
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:34:19.495 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842032.917,
+  "count": 6,
+  "id": 1492,
+  "selection": [
+    6
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:34:19.502 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842059.496,
+  "count": 7,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 10,
+      "text": true
+    }
+  ]
+}
+[debug:generator-assets 09:34:19.527 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842059.51,
+  "count": 8,
+  "id": 1492,
+  "selection": [
+    3
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:34:21.388 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842061.382,
+  "count": 9,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 8,
+      "removed": true
+    }
+  ],
+  "selection": [
+    2
+  ]
+}
+[debug:generator-assets 09:35:10.829 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842110.827,
+  "count": 12,
+  "id": 1492,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\capas dos lances e jogadas\\CAPAgeralLeJogadas.psd",
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:37:35.045 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842239.406,
+  "count": 13,
+  "id": 1492,
+  "selection": [
+    4
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:37:35.050 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842255.045,
+  "count": 14,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 9,
+      "text": true
+    }
+  ]
+}
+[debug:generator-assets 09:37:38.288 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842258.284,
+  "count": 15,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 9,
+      "bounds": {
+        "top": 217,
+        "left": 80,
+        "bottom": 455,
+        "right": 569
+      }
+    }
+  ]
+}
+[debug:generator-assets 09:38:01.594 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842281.591,
+  "count": 3,
+  "id": 1516,
+  "layers": [
+    {
+      "id": 2,
+      "index": 0,
+      "bounds": {
+        "top": 0,
+        "left": 0,
+        "bottom": 425,
+        "right": 432
+      },
+      "added": true,
+      "type": "layer",
+      "name": "Camada 0"
+    },
+    {
+      "id": 1,
+      "removed": true
+    }
+  ]
+}
+[debug:generator-assets 09:38:06.257 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842284.835,
+  "count": 17,
+  "id": 1492,
+  "active": true,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\capas dos lances e jogadas\\CAPAgeralLeJogadas.psd",
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:38:06.291 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842286.288,
+  "count": 18,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 18,
+      "index": 5,
+      "bounds": {
+        "top": 100,
+        "left": 539,
+        "bottom": 525,
+        "right": 971
+      },
+      "added": true,
+      "type": "layer",
+      "name": "Camada 4"
+    }
+  ],
+  "selection": [
+    5
+  ]
+}
+[debug:generator-assets 09:38:11.300 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842291.296,
+  "count": 19,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 18,
+      "bounds": {
+        "top": 197,
+        "left": 681,
+        "bottom": 622,
+        "right": 1113
+      }
+    }
+  ]
+}
+[debug:generator-assets 09:38:41.185 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842321.182,
+  "count": 22,
+  "id": 1492,
+  "selection": [
+    6
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:38:47.158 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842327.156,
+  "count": 23,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 10,
+      "bounds": {
+        "top": 491,
+        "left": 195,
+        "bottom": 622,
+        "right": 524
+      }
+    }
+  ]
+}
+[debug:generator-assets 09:38:51.681 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842331.678,
+  "count": 24,
+  "id": 1492,
+  "selection": [
+    4
+  ],
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:38:58.282 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842338.279,
+  "count": 25,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 9,
+      "bounds": {
+        "top": 223,
+        "left": 136,
+        "bottom": 461,
+        "right": 625
+      }
+    }
+  ]
+}
+[debug:generator-assets 09:39:47.522 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842387.519,
+  "count": 27,
+  "id": 1492,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\capas dos lances e jogadas\\CAPAgeralLeJogadas.psd",
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:39:55.262 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842395.258,
+  "count": 4,
+  "id": 1516,
+  "active": true,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\NATANAEL GABRIEL SUB20 RJSP JOGADAS\\NAT01.JPG",
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:39:59.691 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842399.687,
+  "count": 28,
+  "id": 1492,
+  "active": true,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\capas dos lances e jogadas\\CAPAgeralLeJogadas.psd",
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:39:59.894 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842399.891,
+  "count": 5,
+  "id": 1516,
+  "closed": true,
+  "metaDataOnly": true
+}
+[debug:generator-assets 09:41:05.651 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536842465.648,
+  "count": 29,
+  "id": 1492,
+  "file": "D:\\TUDO MP15SPORTS\\TRABALHOS ATLETAS\\capas dos lances e jogadas\\CAPAgeralLeJogadas.psd",
+  "metaDataOnly": true
+}
+[debug:generator-assets 11:10:29.739 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1536847829.719,
+  "count": 30,
+  "id": 1492,
+  "closed": true,
+  "metaDataOnly": true
+}
+[warning:core 11:10:30.287 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe error: Error: EPIPE, read
+[info:core 11:10:30.293 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[info:core 11:10:30.297 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
 [1;31mExiting with code 0: Generator close event
 [0m

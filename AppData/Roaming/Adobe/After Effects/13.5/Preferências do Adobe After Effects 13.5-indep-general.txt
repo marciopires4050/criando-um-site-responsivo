@@ -18,7 +18,12 @@
 	"Show Sub Layers v2" = 01
 
 ["General Section"]
+	"Create New Layers At Time Zero" = 01
+	"Expression Timeout Time (seconds)" = "20"
 	"Levels of Undo v2" = "99"
+	"Path Point and Handle Radius (pixels)" = "5"
+	"Rectified Waveforms" = 01
+	"Show separate expression error dialog for each missing item" = 01
 	"Synchronize Time" = 01
 
 ["Hardware Accelerated Viewer"]
@@ -35,10 +40,21 @@
 
 ["Label Preference Color Section 5"]
 	"Label Color ID 2 # 1" = FFB5"88"
+	"Label Color ID 2 # 10" = FF8E","9A
+	"Label Color ID 2 # 11" = FFE8920D
+	"Label Color ID 2 # 12" = FF7F"E*"
+	"Label Color ID 2 # 13" = FFF4"m"D6
+	"Label Color ID 2 # 14" = FF"="A2A5
 	"Label Color ID 2 # 15" = FFA896"w"
+	"Label Color ID 2 # 16" = FF1E"@"1E
 	"Label Color ID 2 # 2" = FFE4D8"L"
 	"Label Color ID 2 # 3" = FFA9CBC7
+	"Label Color ID 2 # 4" = FFE5BCC9
 	"Label Color ID 2 # 5" = FFA9A9CA
+	"Label Color ID 2 # 6" = FFE7C19E
+	"Label Color ID 2 # 7" = FFB3C7B3
+	"Label Color ID 2 # 8" = FF"g}"E0
+	"Label Color ID 2 # 9" = FF"J"A4"L"
 
 ["Label Preference Indices Section 5"]
 	"Adjustment Label Index 2" = "5"
@@ -55,14 +71,27 @@
 	"Video Label Index 2" = "3"
 
 ["Label Preference Text Section 5"]
+	"Label Text ID 2 # 1" = "Vermelho"
+	"Label Text ID 2 # 10" = "Violeta"
+	"Label Text ID 2 # 11" = "Laranja"
+	"Label Text ID 2 # 12" = "Marrom"
+	"Label Text ID 2 # 13" = "F"FA"csia"
+	"Label Text ID 2 # 14" = "Ciano"
 	"Label Text ID 2 # 15" = "Arenito"
+	"Label Text ID 2 # 16" = "Verde-escuro"
 	"Label Text ID 2 # 2" = "Amarelo"
 	"Label Text ID 2 # 3" = C1"gua"
+	"Label Text ID 2 # 4" = "Rosa"
 	"Label Text ID 2 # 5" = "Lavanda"
+	"Label Text ID 2 # 6" = "P"EA"ssego"
+	"Label Text ID 2 # 7" = "Espuma do mar"
+	"Label Text ID 2 # 8" = "Azul"
+	"Label Text ID 2 # 9" = "Verde"
 
 ["Main Pref Section v2"]
 	"DynamicLink Server Follows Project Versions" = "0"
 	"Enable Gradients" = 01
+	"Footage layers open layer panel" = "1"
 	"Pref_DEFAULT_SP_INTERP_LIN" = 00
 	"Pref_DEFAULT_STILL_OUT_POINT v2" = "0/0"
 	"Pref_GRID_COLOR" = "0xff008000"
@@ -74,15 +103,27 @@
 	"Pref_JAVASCRIPT_DEBUGGER" = "0"
 	"Pref_TOOL_TIPS" = 01
 	"Pref_USE_SMART_MASK" = 01
+	"Use Adobe Color Picker" = "1"
 	"User Interface Brightness (4) [0.0..1.0]" = "0.000000"
 
 ["Mask Colors"]
 	"Cycle Mask Label Colors" = 01
 	"Use Contrasting Color For Mask Path Color Choices (2 - 15)" = "5"
 
+["Metadata"]
+	"CreateLayerMarkersFromFootageXMP" = 01
+
 ["Misc Section"]
+	"Expression Error Warning Banner Collapsed" = "1"
+	"Play sound when render finishes" = "1"
+	"Show Expression Error Warning Banner" = "1"
 	"Trim nested GUID request to Comp Duration" = 01
 	"UI Brightness Slider Affects Labels" = 00
+
+["Spring-Loaded Project Panel Folders"]
+	"Allow Closing Folders During Drag" = 00
+	"Delay before springing (seconds)" = "0.700000"
+	"Enabled" = 01
 
 ["Tool Palette Settings v4"]
 	"Pen Shortcut Cycles All Tools" = "0"

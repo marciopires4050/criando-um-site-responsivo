@@ -14,23 +14,24 @@
 
 ["Text Style Sheet"]
 	"Auto Kerning Type" = "Metric Auto Kerning"
-	"Auto Leading" = 01
+	"Auto Leading" = 00
 	"Baseline Direction" = "Rotated"
 	"Baseline Option" = "Normal"
 	"Baseline Shift" = "0.000000"
 	"Caps Option" = "Normal"
-	"Fill Blue" = "0.921569"
-	"Fill Green" = "0.921569"
-	"Fill Red" = "0.921569"
-	"Font Family Name" = "Times New Roman"
-	"Font PostScript Name" = "TimesNewRomanPSMT"
+	"Fill Blue" = "0.152941"
+	"Fill Green" = "0.847059"
+	"Fill Red" = "0.988235"
+	"Font Family Name" = "Exo 2"
+	"Font PostScript Name" = "Exo2-ExtraBoldItalic"
 	"Font Script" = "0"
-	"Font Style Name" = "Regular"
-	"Font Technology" = "1"
+	"Font Style Name" = "Extra Bold Italic"
+	"Font Technology" = "0"
 	"Horizontal Scale" = "100"
+	"Leading" = "0.010000"
 	"Render Fill" = 01
 	"Render Stroke" = 00
-	"Size" = "36.000000"
+	"Size" = "56.000000"
 	"Stroke Blue" = "0.000000"
 	"Stroke Green" = "0.000000"
 	"Stroke Over Fill" = 01

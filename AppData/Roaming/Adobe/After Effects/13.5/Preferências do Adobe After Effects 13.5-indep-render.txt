@@ -74,39 +74,46 @@
 		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
 		00000000000000000000000001FFFFFFFF00B4000000000000000000020000000200000002000000\
 		02FFFFFFFF0000000000000000000000000000000000000000000000000000000000000000000000\
+		0000000001FFFFFFFF00B400000000000000000002000000020000000200000002FFFFFFFF000000\
 		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
 		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
-		00000000000000000000000001FFFFFFFF00B4000000000000000000020000000200000002000000\
-		02FFFFFFFF00000000000000000000000000000000"lse</ParamIsSlider>"0A0909"<ParamDon"\
-		"tSerializeValue>false</ParamDontSerializeValue>"0A0909"<ParamOrdinalValue>0</P"\
-		"aramOrdinalValue>"0A0909"<ParamType>2</ParamType>"0A0909"<ParamValue>48000</Pa"\
-		"ramValue>"0A09"</ExporterParam>"0A09"<ExporterParam ObjectID="22"36"22" ClassI"\
-		"D="22"9f049ab7-d48f-43e9-a8ca-4d7f21233625"22" Version="22"1"22">"0A0909"<Para"\
-		"mAuxType></ParamAuxType>"0A0909"<ParamAuxValue></ParamAuxValue>"0A0909"<ParamI"\
-		"dentifier>ADBEAudioNumChannels</ParamIdentifier>"0A0909"<ParamConstrainedListI"\
-		"sOptional>false</ParamConstrainedListIsOptional>"0A0909"<IsFilePathString>fals"\
-		"e</IsFilePathString>"0A0909"<IsOptionalParamEnabled>false</IsOptionalParamEnab"\
-		"led>"0A0909"<IsOptionalParam>false</IsOptionalParam>"0A0909"<IsParamPairGroup>"\
-		"false</IsParamPairGroup>"0A0909"<ParamIsPassword>false</ParamIsPassword>"0A0909\
-		"<ParamIsMultiLine>false</ParamIsMultiLine>"0A0909"<ParamIsHidden>false</ParamI"\
-		"sHidden>"0A0909"<ParamIsDisabled>false</ParamIsDisabled>"0A0909"<ParamIsIndepe"\
-		"ndant>false</ParamIsIndependant>"0A0909"<ParamIsSlider>false</ParamIsSlider>"0A\
-		0909"<ParamDontSerializeValue>false</ParamDontSerializeValue>"0A0909"<ParamOrdi"\
-		"nalValue>1</ParamOrdinalValue>"0A0909"<ParamType>2</ParamType>"0A0909"<ParamVa"\
-		"lue>2</ParamValue>"0A09"</ExporterParam>"0A09"<ExporterParam ObjectID="22"37"22\
-		" ClassID="22"9f049ab7-d48f-43e9-a8ca-4d7f21233625"22" Version="22"1"22">"0A0909\
-		"<ParamAuxType></ParamAuxType>"0A0909"<ParamAuxValue></ParamAuxValue>"0A0909"<P"\
-		"aramIdentifier>ADBEAudioSampleType</ParamIdentifier>"0A0909"<ParamConstrainedL"\
-		"istIsOptional>false</ParamConstrainedListIsOptional>"0A0909"<IsFilePathString>"\
-		"false</IsFilePathString>"0A0909"<IsOptionalParamEnabled>false</IsOptionalParam"\
-		"Enabled>"0A0909"<IsOptionalParam>false</IsOptionalParam>"0A0909"<IsParamPairGr"\
-		"oup>false</IsParamPairGroup>"0A0909"<ParamIsPassword>false</ParamIsPassword>"0A\
-		0909"<ParamIsMultiLine>false</ParamIsMultiLine>"0A0909"<ParamIsHidden>false</Pa"\
-		"ramIsHidden>"0A0909"<ParamIsDisabled>false</ParamIsDisabled>"0A0909"<ParamIsIn"\
-		"dependant>false</ParamIsIndependant>"0A0909"<ParamIsSlider>false</ParamIsSlide"\
-		"r>"0A0909"<ParamDontSerializeValue>false</ParamDontSerializeValue>"0A0909"<Par"\
-		"amOrdinalValue>2</ParamOrdinalValue>"0A0909"<ParamType>2</ParamType>"0A0909"<P"\
-		"aramValue>1</ParamValue>"0A09"</ExporterParam>"0A09"<ExporterParam ObjectID="22\
-		"38"22" ClassID="22"9f049a"000000000000000000000000000000010001C9"r"990010"x"
+		000000000000000000000000000000000000000001FFFFFFFF00B400000000000000000002000000\
+		020000000200000002FFFFFFFF000000000000000000000000000000000000000200000002000000\
+		0200000002000000000000000000000000"_HIDDEN X-Factor"00"ais"00000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000001FFFFFFFF00B4000000000000000000020000\
+		00020000000200000002FFFFFFFF0000000000000000000000000000000000000002FFFFFFFF0000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		00000000000000000000000000000000000000000000000000000000000000000000000000000000\
+		000000000001FFFFFFFF00B400000000000000000002000000020000000200000002FFFFFFFF0000\
+		0000000000000000000000000000"lse</ParamIsSlider>"0A0909"<ParamDontSerializeValu"\
+		"e>false</ParamDontSerializeValue>"0A0909"<ParamOrdinalValue>0</ParamOrdinalVal"\
+		"ue>"0A0909"<ParamType>2</ParamType>"0A0909"<ParamValue>48000</ParamValue>"0A09\
+		"</ExporterParam>"0A09"<ExporterParam ObjectID="22"36"22" ClassID="22"9f049ab7-"\
+		"d48f-43e9-a8ca-4d7f21233625"22" Version="22"1"22">"0A0909"<ParamAuxType></Para"\
+		"mAuxType>"0A0909"<ParamAuxValue></ParamAuxValue>"0A0909"<ParamIdentifier>ADBEA"\
+		"udioNumChannels</ParamIdentifier>"0A0909"<ParamConstrainedListIsOptional>false"\
+		"</ParamConstrainedListIsOptional>"0A0909"<IsFilePathString>false</IsFilePathSt"\
+		"ring>"0A0909"<IsOptionalParamEnabled>false</IsOptionalParamEnabled>"0A0909"<Is"\
+		"OptionalParam>false</IsOptionalParam>"0A0909"<IsParamPairGroup>false</IsParamP"\
+		"airGroup>"0A0909"<ParamIsPassword>false</ParamIsPassword>"0A0909"<ParamIsMulti"\
+		"Line>false</ParamIsMultiLine>"0A0909"<ParamIsHidden>false</ParamIsHidden>"0A09\
+		09"<ParamIsDisabled>false</ParamIsDisabled>"0A0909"<ParamIsIndependant>false</P"\
+		"aramIsIndependant>"0A0909"<ParamIsSlider>false</ParamIsSlider>"0A0909"<ParamDo"\
+		"ntSerializeValue>false</ParamDontSerializeValue>"0A0909"<ParamOrdinalValue>1</"\
+		"ParamOrdinalValue>"0A0909"<ParamType>2</ParamType>"0A0909"<ParamValue>2</Param"\
+		"Value>"0A09"</ExporterParam>"0A09"<ExporterParam ObjectID="22"37"22" ClassID="22\
+		"9f049ab7-d48f-43e9-a8ca-4d7f21233625"22" Version="22"1"22">"0A0909"<ParamAuxTy"\
+		"pe></ParamAuxType>"0A0909"<ParamAuxValue></ParamAuxValue>"0A0909"<ParamIdentif"\
+		"ier>ADBEAudioSampleType</ParamIdentifier>"0A0909"<ParamConstrainedListIsOption"\
+		"al>false</ParamConstrainedListIsOptionamIsHidden>fals"90050095C4108900E0960000\
+		00000000000000000000000084000084")"A2B500A0AE"\Support Files3"0400"7"BA">"940010\
+		")\Program Filesb"0000"b"16":"AC00"`I"
 	"Still Frame RS Index" = "0"
 

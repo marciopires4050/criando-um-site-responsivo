@@ -1,0 +1,8 @@
+DynamicLinkMediaServer	1	5
+ImporterMPEG	1	5
+MSDKDecoderBase	1	5
+MSDKDecoderWithMCDemux	1	5
+MpegRCFunction	1	5
+dynamiclink	1	5
+dynamiclinkmediaserver	1	5
+processcoordination	1	5

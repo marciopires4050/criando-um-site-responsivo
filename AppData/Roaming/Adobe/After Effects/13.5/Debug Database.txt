@@ -28,6 +28,7 @@ DS.DisablePixelFormatShaders	false	false
 DS.ForceCPUOnly	false	false
 DVA_syncWindowEnablement	false	false
 DisableHighQualityAVCHDPlayback	false	false
+DisableNewMediaNodeRenderer	false	false
 DistanceFromLastStateToNeedANewMPEGInfo	20	20
 DvaMarshalRPCLogging	false	false
 DynamicLinkVideoRenderInfinite	false	false
@@ -42,6 +43,7 @@ LegacyQTCodecsAndGamma	false
 LogTimeInTicks	true	true
 MC.AudioRenderer.ComplexityBeforeRender	200	200
 MC.BE.AddDocIDOnImport	true	true
+MCExporterLog	false	false
 ML.EnableDiskCache	false	false
 ML.LoadTestingPluginsAtStartup	false	false
 ML.MaxPlaybackSpeed	32	32
@@ -56,7 +58,12 @@ MemoryAccountDirect2	true	true
 MemoryFudgeBuffer2	262144000	262144000
 MemoryYoYoLog	false	false
 MinimumDelayBetweenFlushesInSeconds	1	1
+NewImportDialogNoReflow	false	false
 NumberOfInstancesBeforeContention	500	500
+OldXPImportDialog	false	false
+PretendPullHangLength	0	0
+PretendPullHangStart	0	0
+PretendPullNotify	true	true
 QT.DisableQuickTime32	false	false
 QT.EnableNativeExports	true	true
 QT.ForceReferenceMoviesToImporterQuickTime	false	false
@@ -72,6 +79,7 @@ TraceSyslog
 UseBuggyWiggleMath	false	false
 UseOGLSwapBuffer	true	true
 UseSWFWelcomeScreen	false	false
+VariableFeatherDebugCornerAngles	false	false
 VirtualAllocFrames	true	true
 VirtualAllocMinSizeInK3	300	300
 assert_command_reentrancy	false	false

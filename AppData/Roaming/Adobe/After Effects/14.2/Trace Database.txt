@@ -1,6 +1,7 @@
 AppDirs	1	5
 AppVers	1	5
 Artisan	1	5
+Assert	1	5
 Audio	1	5
 BE.MessagePool	1	5
 BEE_Cache	1	5
@@ -29,6 +30,8 @@ EACL.HostedLogin	1	5
 EACL.ImageSupply	1	5
 EACL.ProductionCollaboratorsWatcher	1	5
 FLT	1	5
+GF.PoolSize	1	5
+GPUFoundation	1	5
 GPUManager	1	5
 Idle	1	5
 Keyboard	1	5

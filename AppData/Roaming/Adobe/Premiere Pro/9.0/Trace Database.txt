@@ -1,5 +1,26 @@
 AudioDevice	1	5
+BE.MessagePool	1	5
+BE.Project.Load	1	5
+BE.Project.Save	1	5
+BE.Project.Serialization	1	5
 DVAAudioDeviceHost	1	5
+DataCacheInFilesystem	1	5
+Dump Playback Queue	1	5
 DynamicLink	1	5
+EncoderHost	1	5
+FE.DocumentManager.OpenDocument	1	5
 FE.WinInit.LocPlugins	1	5
+HSL.SaveProject	1	5
+ImporterMPEG	1	5
+LoadProject	1	5
+MF::VolumeChangedListener	1	5
+MF::VolumesChangedListener	1	5
+ML.MonitorMixer	1	5
+ML.ProjectLoadTracer	1	5
+ML.SP.SetSDKEvent	1	5
+MZ.HandlerManager.CreateHandlers	1	5
+TotalProject	1	5
+UpdatePlaybackStatusInfo	1	5
+Workspace	1	5
 dvaaudiodevice	1	5
+ml.playmodule.selectors	1	5

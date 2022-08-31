@@ -234,7 +234,7 @@
 	"Pref_GROUP_CLOSE_WINDOWS" = 01
 	"Pref_HIDE_LOCKED_MASKS" = 00
 	"Pref_LAST_COMP_COLOR" = "0xff000000"
-	"Pref_LAST_DATE_TIME" = "-708981615"
+	"Pref_LAST_DATE_TIME" = "-706886937"
 	"Pref_LIMIT_FILESIZE_K" = "-1048576"
 	"Pref_LIMIT_FILES_PER_FOLDER v2" = "-700"
 	"Pref_MOVIESTASK_TIMEOUT_SECS" = "240"
@@ -343,11 +343,11 @@
 	"MRU Project Path ID # 1, Last Opened" = "20170819T023358"
 	"MRU Script Path ID # 0, File Path" = "C:\Program Files\Adobe\Adobe After Effects CC 2017\Support Files\Scripts\ScriptU"\
 		"I Panels\UnLoockHSTscript.jsxbin"
-	"MRU Script Path ID # 0, File Type" = "P5"17"\"000000000BD90A0800000000"p"00000000000000"w"00000000000000
+	"MRU Script Path ID # 0, File Type" = "0\='"000000000BD9"T"0700000000"p"00000000000000"w"00000000000000
 	"MRU Script Path ID # 0, Last Opened" = "20170819T022527"
 	"MRU Script Path ID # 1, File Path" = "C:\Program Files\Adobe\Adobe After Effects CC 2017\Support Files\Scripts\ScriptU"\
 		"I Panels\Animation Kit.jsxbin"
-	"MRU Script Path ID # 1, File Type" = C0C506"\"00000000"Y"DDBF0000000000"m"00000000000000"o"00000000000000
+	"MRU Script Path ID # 1, File Type" = "`"9A"6b"00000000"Y"DDBF0000000000"m"00000000000000"o"00000000000000
 	"MRU Script Path ID # 1, Last Opened" = "20170819T004608"
 	"MRU Version" = 00000004
 

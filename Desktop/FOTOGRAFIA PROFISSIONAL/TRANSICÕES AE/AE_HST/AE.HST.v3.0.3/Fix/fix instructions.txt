@@ -1,5 +1,0 @@
-Place UnLoockHSTscript in C:\Program Files\Adobe\Adobe After Effects CC 2017\Support Files\Scripts
-step 2: start AE
-atep 3: Run script UnLoockHSTscript, from file, script
-step 4: run script Handy Seamless Transitions, it should be cracked now
-step 5: delete script UnLoockHSTscript(not needed anymore)

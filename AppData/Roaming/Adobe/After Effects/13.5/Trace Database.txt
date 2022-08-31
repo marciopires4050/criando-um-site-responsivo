@@ -5,9 +5,11 @@ AudioDevice	1	5
 BE.MessagePool	1	5
 BEE_Cache	1	5
 BEE_CacheLog	1	5
+BEE_MiscTasks	1	5
 BEE_Project	1	5
 BEE_WorkQueue	1	5
 BEE_WorkQueue.Progress	1	5
+BEEp_InitSoundPB	1	5
 Banana	1	5
 CCacheVisualizer	1	5
 CItem.ScrubTimeContext	1	5
@@ -19,10 +21,18 @@ CPano_AsyncPlayer	1	5
 CRender	1	5
 CheckoutItemFrameAsync	1	5
 DBSync	1	5
+D_MCp_EndMCExporter	1	5
+D_MCp_StartMCExporter	1	5
 DynamicLink	1	5
+EncoderHost	1	5
+ExporterHost::BeginThreadExport	1	5
+FLT	1	5
 GPUManager	1	5
+IVideoSource	1	5
 Idle	1	5
 ImporterMPEG	1	5
+MCExportInfo	1	5
+ML.PluginVideoRenderer.OnRenderError 	1	5
 MixHashGuid	1	5
 RenderQueue.UI	1	5
 RotobrushSpanView	1	5
@@ -31,5 +41,6 @@ SyncService	1	5
 TimeNeedle	1	5
 U_Context	1	5
 U_THREADS	1	5
+WriteXMPDataWithRetries	1	5
 ae.blitpipe	1	5
 drawbotagm	1	5

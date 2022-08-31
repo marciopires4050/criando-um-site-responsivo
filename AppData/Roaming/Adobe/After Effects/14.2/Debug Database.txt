@@ -44,9 +44,11 @@ ControlFPValuesKey64_2	524319	524319
 CreateLogFilesThatDoNotExist	false	false
 DS.DisablePixelFormatShaders	false	false
 DS.ForceCPUOnly	false	false
+DS.disable_WGL_INTEL_cl_sharing	true	true
 DVA.ui.EnableStackedTabPanels	true	true
 DVA_syncWindowEnablement	false	false
 DisableGPU	false	false
+DisableGPUMediaNode	false	false
 DoKeyboardShortcutHoverScrubbing	0	0
 DvaMarshalRPCLogging	false	false
 DynamicLinkVideoRenderInfinite	false	false
@@ -61,6 +63,12 @@ EnbableSmallBlockAllocatorForES	false	false
 ExporterQT.AnimationNativeEncoderEnabled	true	true
 ExporterQT.DNxHDNativeSupportEnabled	true	true
 GF.DisableAcceleratedRenderer	false	false
+GF.ForceEnableZeroCopy	false	false
+GF.HostPoolFactor	10	10
+GF.LazyHostCachePurge	true	true
+GF.ProfileKernels	false	false
+GF.SupportCPUDevices	false	false
+GF.UseHostFrameCache	true	true
 HWBPFilterOn	false	false
 IR.disableAVX	false	false
 IR.disableAVX2	false	false
@@ -113,6 +121,7 @@ UseOGLSwapBuffer	true	true
 VariableFeatherDebugCornerAngles	false	false
 VirtualAllocFrames	true	true
 VirtualAllocMinSizeInK3	300	300
+assert.enabled	false	false
 assert_command_reentrancy	false	false
 assert_command_ui_callback	false	false
 dvaplayer::PlayerEnabled	true	true

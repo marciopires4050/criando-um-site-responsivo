@@ -1,35 +1,207 @@
-Log file created on Tue Aug 08 2017 13:58:52 GMT-0300 (Hora oficial do Brasil)
+Log file created on Sat Sep 15 2018 08:20:04 GMT-0300 (Hora oficial do Brasil)
 
-[debug:core 13:58:52.487 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
+[debug:core 08:20:04.512 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:103:17] Launching with config:
 {}
-[debug:core 13:58:52.488 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
+[debug:core 08:20:04.512 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:105:21] provided PS information:
  version 16.0.0
  pathundefined
 
-[info:core 13:58:52.488 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:205:25] Detected Photoshop version: 16.0.0
+[info:core 08:20:04.528 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:205:25] Detected Photoshop version: 16.0.0
 [1;31mNo viable plugins were found in 'C:\Program Files\Adobe\Adobe Photoshop CC 2015\Plug-ins\Generator'
-[0m[debug:core 13:58:53.430 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: generator-assets
-[debug:core 13:58:53.599 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: generator-assets
-[debug:core 13:58:53.599 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: crema
-[debug:core 13:58:53.747 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: crema
-[debug:core 13:58:53.747 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: adobe-preview-generator-plugin
-[debug:core 13:58:54.112 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: adobe-preview-generator-plugin
+[0m[debug:core 08:20:08.996 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: generator-assets
+[debug:core 08:20:09.625 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: generator-assets
+[debug:core 08:20:09.625 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: crema
+[debug:core 08:20:10.652 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: crema
+[debug:core 08:20:10.656 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1718:21] Loading plugin: adobe-preview-generator-plugin
+[debug:core 08:20:13.717 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:1734:21] Plugin loaded: adobe-preview-generator-plugin
 ***************** SVG is enabled - OMG!
 requesting document info
-[warning:core 13:58:54.338 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 5, body: 'Error: No image open' }
-[warning:generator-assets 13:58:54.354 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:300:26] Error: No image open
-[warning:core 13:58:54.924 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error { id: 17, body: 'Error: No image open' }
-[warning:crema 13:58:54.924 C:\Program Files\Common Files\Adobe\Plug-Ins\CC\Generator\crema.generate\node_modules\generator-assets\lib\documentmanager.js:300:26] Error: No image open
-[debug:generator-assets 13:59:05.995 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+[debug:generator-assets 08:21:22.787 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
   "version": "1.3.0",
-  "timeStamp": 1502211545.999,
+  "timeStamp": 1537010482.769,
   "count": 3,
+  "id": 1496,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\NOVAS\\DSCN2797.JPG",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:21:25.454 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010485.443,
+  "count": 3,
+  "id": 1499,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\NOVAS\\DSCN2798.JPG",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:21:25.673 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010485.659,
+  "count": 4,
+  "id": 1496,
+  "closed": true,
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:26:32.544 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010792.537,
+  "count": 1,
+  "id": 1492,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\Apoiovr05.png",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:26:37.451 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010797.433,
+  "count": 4,
+  "id": 1499,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\NOVAS\\DSCN2798.JPG",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:26:45.410 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010805.392,
+  "count": 5,
+  "id": 1499,
+  "layers": [
+    {
+      "id": 2,
+      "index": 0,
+      "bounds": {
+        "top": 0,
+        "left": 0,
+        "bottom": 3672,
+        "right": 4896
+      },
+      "added": true,
+      "type": "layer",
+      "name": "Camada 0"
+    },
+    {
+      "id": 1,
+      "removed": true
+    }
+  ]
+}
+[debug:generator-assets 08:26:56.120 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010815.011,
+  "count": 2,
+  "id": 1492,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\Apoiovr05.png",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:26:56.136 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010816.119,
+  "count": 3,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 4,
+      "index": 1,
+      "bounds": {
+        "top": -1768,
+        "left": -1369,
+        "bottom": 1904,
+        "right": 3527
+      },
+      "added": true,
+      "type": "layer",
+      "name": "Camada 1"
+    }
+  ],
+  "selection": [
+    1
+  ]
+}
+[debug:generator-assets 08:26:57.509 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010817.492,
+  "count": 4,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 4,
+      "bounds": {
+        "top": -1635,
+        "left": -2044,
+        "bottom": 2037,
+        "right": 2852
+      }
+    }
+  ]
+}
+[debug:generator-assets 08:28:46.906 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010926.902,
+  "count": 11,
+  "id": 1492,
+  "layers": [
+    {
+      "id": 4,
+      "bounds": {
+        "top": -233,
+        "left": -107,
+        "bottom": 600,
+        "right": 1003
+      },
+      "transform": {
+        "xx": 0.226716,
+        "xy": 0,
+        "yx": 0,
+        "yy": 0.226852,
+        "tx": 860.623,
+        "ty": -168.347
+      },
+      "pixels": true
+    }
+  ]
+}
+[warning:generator-assets 08:28:46.922 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\dom\layer.js:554:34] Unhandled property in raw change: transform { xx: 0.226716,
+  xy: 0,
+  yx: 0,
+  yy: 0.226852,
+  tx: 860.623,
+  ty: -168.347 }
+[debug:generator-assets 08:29:56.445 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537010996.435,
+  "count": 13,
+  "id": 1492,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\Apoiovr05.png",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:30:16.906 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537011016.901,
+  "count": 6,
+  "id": 1499,
+  "closed": true,
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:30:16.921 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537011016.911,
+  "count": 14,
+  "id": 1492,
+  "active": true,
+  "file": "D:\\TUDO VOLEI MASTER 2018\\IMAGENS\\IMAGENS\\Apoiovr05.png",
+  "metaDataOnly": true
+}
+[debug:generator-assets 08:30:17.656 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Plug-Ins\Generator\assets.generate\lib\documentmanager.js:269:22] Applying change:  {
+  "version": "1.3.0",
+  "timeStamp": 1537011017.639,
+  "count": 15,
   "id": 1492,
   "closed": true,
   "metaDataOnly": true
 }
-[warning:core 13:59:06.249 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe error: Error: EPIPE, read
-[info:core 13:59:06.265 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
-[info:core 13:59:06.265 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[warning:core 08:30:18.012 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:122:25] Photoshop error Pipe error: Error: EPIPE, read
+[info:core 08:30:18.018 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
+[info:core 08:30:18.022 C:\Program Files\Adobe\Adobe Photoshop CC 2015\Required\Generator-builtin\lib\generator.js:117:25] Photoshop connection closed
 [1;31mExiting with code 0: Generator close event
 [0m
